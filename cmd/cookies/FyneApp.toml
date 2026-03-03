@@ -1,0 +1,7 @@
+Website = "https://github.com/carnivorecookies/CookiesMacro"
+
+[Details]
+Name = "Cookies' Macro"
+ID = "com.github.carnivorecookies.CookiesMacro"
+Version = "0.0.0"
+Build = 4
